@@ -12,3 +12,7 @@ image {
     border-radius: 20px;
     justify-content: space-between;
 }
+#links {
+    background-color:#1b1212;
+    color:goldenrod;
+}
