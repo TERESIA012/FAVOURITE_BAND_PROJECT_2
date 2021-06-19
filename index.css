@@ -8,3 +8,7 @@
     color: gold;
     justify-content: space-around;
 }
+image {
+    border-radius: 20px;
+    justify-content: space-between;
+}
