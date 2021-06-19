@@ -4,7 +4,7 @@
     text-align: center;
 }
 #part2 {
-    background-color: black;
+    background-color: #041811;
     color: gold;
     justify-content: space-around;
 }
@@ -13,6 +13,6 @@ image {
     justify-content: space-between;
 }
 #links {
-    background-color:#1b1212;
+    background-color:#041811;
     color:goldenrod;
 }
