@@ -11,6 +11,7 @@
 ## Programming languages used are;
 * HTML
 * CSS
+# The  image below is a representation of the website.
 # <img src="./assets.favband/heart.png" height=" 300" width ="500">
 
 # Licence.
