@@ -13,3 +13,5 @@
 * CSS
 # <img src="./assets.favband/heart.png" height=" 300" width ="500">
 
+# Licence.
+## &copy;2021 Moringa School.
